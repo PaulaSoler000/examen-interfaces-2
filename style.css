@@ -1,0 +1,14 @@
+
+.scrolling{
+    overflow-y:scroll;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    max-height:100%;
+    width: 25%;
+}
+
+
+#map { 
+    height: 100vh;
+    width: 60hv;
+}
